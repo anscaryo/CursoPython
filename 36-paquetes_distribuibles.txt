@@ -1,0 +1,4 @@
+Para distribuir paquetes hay que crear instaladores con la orden:
+pip3 install (El nombre del archivo a instalar. con la ruta completa.)
+
+para desinstalar simplemete: sudo pip3 uninstall --nombre del archivo--.

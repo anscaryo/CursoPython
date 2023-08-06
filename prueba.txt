@@ -1,0 +1,6 @@
+Estupendo día para aprender python
+
+Esta linea a sido añadida como elemento de una lista.Otro texto más.
+Otro texto más. aprender.Otro texto más.Otro texto más.Otro texto más.Otro texto más.Otro texto más.
+Otro texto más.
+Otro texto más.
