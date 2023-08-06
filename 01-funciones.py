@@ -1,4 +1,6 @@
-
+'''
+Primer archivo del curso
+'''
 
 def mensaje():
     print(f"Hola, esto es un curso de programación")
