@@ -1,10 +1,14 @@
-from tkinter import *
+'''
 
-raiz = Tk()
+'''
+
+import tkinter as tk
+
+raiz = tk.Tk()
 raiz.title("Primera ventana")
 raiz.resizable(1, 1)
-icono_chico = Tkinter.PhotoImage(file="icon-16.png")
-icono_grande = tk.PhotoImage(file="icon-32.png")
-ventana.iconphoto(False, icono_grande, icono_chico)
-raiz.iconbitmap(bitmap="pin_icon.ico")
+icono_chico = tk.PhotoImage(file="icon-16.png")
+# icono_grande = tk.PhotoImage(file="icon-32.png")
+# raiz.iconphoto(False, icono_grande, icono_chico)
+#raiz.iconbitmap(bitmap="icon-16.ico")
 raiz.mainloop()
